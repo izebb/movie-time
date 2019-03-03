@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MovieCard should render without crashing 1`] = `
+<MovieCard__Container
+  data-testid="MovieCard"
+  onClick={[Function]}
+>
+  <MovieImage
+    height={170}
+    template="https://i-viaplay-com.akamaized.net/viaplay-prod/286/700/LethalWeapon3Exc_Packshot.jpg{?width,height}"
+    width={270}
+  />
+  <MovieCardSummary
+    seasons={5}
+    title="a beautiful mind"
+  />
+</MovieCard__Container>
+`;

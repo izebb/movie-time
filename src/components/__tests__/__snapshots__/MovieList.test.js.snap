@@ -1,0 +1,158 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MovieList should render without crashing 1`] = `
+<MovieList__Container>
+  <div
+    key="0"
+  >
+    <MovieList__ListSection>
+      <MovieList__CardWrapper
+        key="series-greys-anatomy"
+      >
+        <MovieCard
+          coverTemplate="https://i-viaplay-com.akamaized.net/viaplay-prod/279/80/GreysAnatomy14_Packshot.jpg{?width,height}&template=abcstudios"
+          id="series-greys-anatomy"
+          onClick={[Function]}
+          seasons={14}
+          title="Grey's Anatomy"
+        />
+      </MovieList__CardWrapper>
+      <MovieList__CardWrapper
+        key="series-criminal-minds"
+      >
+        <MovieCard
+          coverTemplate="https://i-viaplay-com.akamaized.net/viaplay-prod/712/784/CriminalMinds_Landscape.jpg{?width,height}&template=abcstudios"
+          id="series-criminal-minds"
+          onClick={[Function]}
+          seasons={13}
+          title="Criminal Minds"
+        />
+      </MovieList__CardWrapper>
+      <MovieList__CardWrapper
+        key="series-blacklist-the"
+      >
+        <MovieCard
+          coverTemplate="https://i-viaplay-com.akamaized.net/viaplay-prod/599/188/TheBlacklist6Exc_Packshot.jpg{?width,height}"
+          id="series-blacklist-the"
+          onClick={[Function]}
+          seasons={6}
+          title="The Blacklist"
+        />
+      </MovieList__CardWrapper>
+      <MovieList__CardWrapper
+        key="series-vampire-diaries-the"
+      >
+        <MovieCard
+          coverTemplate="https://i-viaplay-com.akamaized.net/viaplay-prod/444/784/TheVampireDiaries8_Packshot.jpg{?width,height}"
+          id="series-vampire-diaries-the"
+          onClick={[Function]}
+          seasons={8}
+          title="The Vampire Diaries"
+        />
+      </MovieList__CardWrapper>
+    </MovieList__ListSection>
+    <MovieSummary
+      clearMovieSelection={[Function]}
+      images={Object {}}
+      onClear={[Function]}
+      rating={Object {}}
+      show={false}
+      summary={Object {}}
+    />
+  </div>
+  <div
+    key="1"
+  >
+    <MovieList__ListSection>
+      <MovieList__CardWrapper
+        key="series-lethal-weapon"
+      >
+        <MovieCard
+          coverTemplate="https://i-viaplay-com.akamaized.net/viaplay-prod/286/700/LethalWeapon3Exc_Packshot.jpg{?width,height}"
+          id="series-lethal-weapon"
+          onClick={[Function]}
+          seasons={3}
+          title="Lethal Weapon"
+        />
+      </MovieList__CardWrapper>
+      <MovieList__CardWrapper
+        key="series-chicago-fire"
+      >
+        <MovieCard
+          coverTemplate="https://i-viaplay-com.akamaized.net/viaplay-prod/118/792/chicagofire5_packshot.jpg{?width,height}"
+          id="series-chicago-fire"
+          onClick={[Function]}
+          seasons={5}
+          title="Chicago Fire"
+        />
+      </MovieList__CardWrapper>
+      <MovieList__CardWrapper
+        key="series-family-guy"
+      >
+        <MovieCard
+          coverTemplate="https://i-viaplay-com.akamaized.net/viaplay-prod/935/376/FamilyGuy_landscape_GE.jpg{?width,height}"
+          id="series-family-guy"
+          onClick={[Function]}
+          seasons={16}
+          title="Family Guy"
+        />
+      </MovieList__CardWrapper>
+      <MovieList__CardWrapper
+        key="series-blindspot"
+      >
+        <MovieCard
+          coverTemplate="https://i-viaplay-com.akamaized.net/viaplay-prod/605/816/Blindspot4Exc_Packshot.jpg{?width,height}"
+          id="series-blindspot"
+          onClick={[Function]}
+          seasons={4}
+          title="Blindspot"
+        />
+      </MovieList__CardWrapper>
+    </MovieList__ListSection>
+    <MovieSummary
+      clearMovieSelection={[Function]}
+      images={Object {}}
+      onClear={[Function]}
+      rating={Object {}}
+      show={false}
+      summary={Object {}}
+    />
+  </div>
+  <div
+    key="2"
+  >
+    <MovieList__ListSection>
+      <MovieList__CardWrapper
+        key="series-good-doctor-the"
+      >
+        <MovieCard
+          coverTemplate="https://i-viaplay-com.akamaized.net/viaplay-prod/407/556/TheGoodDoctor2Exc_packshot.jpg{?width,height}"
+          id="series-good-doctor-the"
+          onClick={[Function]}
+          seasons={2}
+          title="The Good Doctor"
+        />
+      </MovieList__CardWrapper>
+      <MovieList__CardWrapper
+        key="series-s.w.a.t."
+      >
+        <MovieCard
+          coverTemplate="https://i-viaplay-com.akamaized.net/viaplay-prod/610/844/SWAT2Exc_Packshot.jpg{?width,height}"
+          id="series-s.w.a.t."
+          onClick={[Function]}
+          seasons={2}
+          title="S.W.A.T."
+        />
+      </MovieList__CardWrapper>
+    </MovieList__ListSection>
+    <MovieSummary
+      clearMovieSelection={[Function]}
+      images={Object {}}
+      onClear={[Function]}
+      rating={Object {}}
+      show={false}
+      summary={Object {}}
+    />
+  </div>
+</MovieList__Container>
+`;

@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MovieSummary should render without crashing 1`] = `
+<MovieSummary__Container>
+  <MovieSummary__CloseWrapper>
+    <CancelButton
+      onClick={[Function]}
+    />
+  </MovieSummary__CloseWrapper>
+  <MovieSummary__ImageWrapper>
+    <MovieImage
+      height={500}
+      template=""
+      width={960}
+    />
+  </MovieSummary__ImageWrapper>
+  <MovieSummary__BackgroundOverlay>
+    <MovieSummary__Wrapper>
+      <MovieSummary__TitleWrapper>
+        <MovieSummary__Title />
+        <MovieRating
+          rating={0}
+          url=""
+          votes=""
+        />
+      </MovieSummary__TitleWrapper>
+      <MovieSummary__Description />
+      <MovieSummary__ButtonWrapper>
+        <PlayButton />
+        Play
+      </MovieSummary__ButtonWrapper>
+    </MovieSummary__Wrapper>
+  </MovieSummary__BackgroundOverlay>
+</MovieSummary__Container>
+`;

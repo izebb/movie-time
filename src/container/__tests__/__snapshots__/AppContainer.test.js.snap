@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppContainer should render without crashing 1`] = `
+<Fragment>
+  <MovieHeader />
+  <MovieList
+    clearMovieSelection={[Function]}
+    displaSectionIndex={-1}
+    displaySection={Object {}}
+    list={Array []}
+    onClickMovie={[Function]}
+  />
+</Fragment>
+`;

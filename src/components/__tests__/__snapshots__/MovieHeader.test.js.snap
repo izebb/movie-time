@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MovieCard should render without crashing 1`] = `
+<MovieHeader__Header>
+  <MovieHeader__Image
+    alt=""
+    src={
+      Object {
+        "process": [Function],
+      }
+    }
+  />
+</MovieHeader__Header>
+`;

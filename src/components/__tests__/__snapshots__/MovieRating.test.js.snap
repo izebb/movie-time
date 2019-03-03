@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MovieRating should render without crashing 1`] = `
+<MovieRating__Container
+  href=""
+  rel="noopener"
+  target="__blank"
+>
+  <RatingStar />
+  <MovieRating__RatingValueWrapper>
+    <div>
+      <MovieRating__RatingValue>
+        0
+      </MovieRating__RatingValue>
+       / 10
+    </div>
+    <MovieRating__RatingLink />
+  </MovieRating__RatingValueWrapper>
+</MovieRating__Container>
+`;

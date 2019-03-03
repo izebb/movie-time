@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error should render without crashing 1`] = `
+<Error__Container>
+  <p />
+  <button
+    onClick={[Function]}
+  >
+    Try again
+  </button>
+</Error__Container>
+`;

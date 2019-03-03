@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MovieCardSummary should render without crashing 1`] = `
+<MovieCardSummary__Container>
+  <MovieCardSummary__Sumamary>
+    <MovieCardSummary__Title>
+      a beautiful mind
+    </MovieCardSummary__Title>
+    <MovieCardSummary__Season>
+      5
+       Seasons
+    </MovieCardSummary__Season>
+  </MovieCardSummary__Sumamary>
+</MovieCardSummary__Container>
+`;
