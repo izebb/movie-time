@@ -74,7 +74,7 @@ export async function movieHTTPRequest(dispatch) {
   dispatch(movieRequest());
 
   try {
-    const response = await http(api.url);
+    const response = await http(api.path);
     const payload = getMovies(response);
     dispatch(movieResponse(payload));
   } catch (err) {

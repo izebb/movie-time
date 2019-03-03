@@ -1,6 +1,6 @@
 exports.api = {
   domain: 'https://content.viaplay.se',
-  url: '/api/pc-se/serier/samtliga'
+  path: '/api/pc-se/serier/samtliga'
 };
 
 exports.imageSizes = {

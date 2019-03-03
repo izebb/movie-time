@@ -7,7 +7,7 @@ const { api } = require('./config');
 
 const app = express();
 const dist = path.resolve(process.cwd(), 'dist');
-const { PORT = 8000 } = process.env;
+const { PORT = 8080 } = process.env;
 
 app.use('/api', proxy(api.domain));
 app.use(
