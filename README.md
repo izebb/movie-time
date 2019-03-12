@@ -2,13 +2,6 @@
 
 Movie listing app using the viaplay API.
 
-## Running application
-
-For a quick view on Desktop not fully responsive yet(screen size  of min-width 1200)
-
-[https://movies-viaplay.herokuapp.com/](https://movies-viaplay.herokuapp.com/)
-
-click on each movie to view the description
 
 ## Basic commands
 
