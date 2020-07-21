@@ -5,7 +5,7 @@
   "dependencies": {
     "compression": "^1.7.3",
     "express": "^4.16.4",
-    "express-http-proxy": "^1.5.1",
+    "express-http-proxy": "^1.6.2",
     "identity-obj-proxy": "^3.0.0",
     "lodash": "^4.17.13",
     "node-fetch": "^2.3.0",
